@@ -2,9 +2,9 @@
 
 This was the second exercise of Machine Learning in Computational Biology course - MSc in Data Science and Information Technologies, Departement of Informatics and Telecommunications, National & Kapodistrian Uneversity of Athens.
 
-# Datasets
+# Dataset
 
-On directory Assignment2_Datasets there are 5 csv files. Each one includes a different signle cell expression matrix.
+The dataset used for this project includes csv files with a signle cell expression matrix each. The dataset is not uploaded.
 
 # Implementation
 
